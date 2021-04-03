@@ -1,6 +1,6 @@
 # Reactive Forms Typed Example
 
-This is a sample application that shows the usage of the [reactive-forms-typed](https://github.com/wilsonsergio2500/reactive-forms-typed) library [Angular CLI](https://github.com/angular/angular-cli) 
+This is a sample application that shows the usage of the [reactive-forms-typed](https://github.com/wilsonsergio2500/reactive-forms-typed) with [Angular CLI](https://github.com/angular/angular-cli) 
 
 ```bash
 npm install reactive-forms-typed --save
